@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* Formatação do Background*/
+
+body {
+    background-image: url(../Imagens/Background.jpg);
+    width: 1200px;
+}
+
+
+/* Formatação da Área de login*/
+
+section#loginarea {
+    display: block;
+    width: 400px;
+    height: 200px;
+    background-color: #272621;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: 200px;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+}
+
+input {
+    text-align: center;
+    margin-left: 45px;
+}
+
+img#olho {
+  margin-left: 3px;
+  margin-bottom: 8px;
+}
+
+input#botao {
+    width: 180px;
+    margin-left: 112px;
+    margin-top: 20px;
+}
+
+/* Formatação do Rodape*/
+
+footer {
+    text-align: center;
+    margin-top: 220px;
+    margin-left: 200px;
+    color: #272621;
+}
